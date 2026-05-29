@@ -1,11 +1,10 @@
 # Portfolio
 
-Portfolio website showcasing education, experience, technical skills, projects, certifications, and achievements.
+The 1st iteration of https://aditivanportfolio.netlify.app
 
-## What this contains
 
-- `index.html` — the main page using the Tailwind Play CDN for styling
-- `assets/` — SVG logo and cute illustration
+<img width="1252" height="475" alt="image" src="https://github.com/user-attachments/assets/6fa65579-598b-41d8-8148-9fd6b6f1b0d5" />
+
 
 🛠 set-up
 1. Install the dependencies
