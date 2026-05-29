@@ -1,4 +1,4 @@
-# Cute Website
+# Portfolio
 
 Portfolio website showcasing education, experience, technical skills, projects, certifications, and achievements.
 
