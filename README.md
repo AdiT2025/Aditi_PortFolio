@@ -7,26 +7,16 @@ Portfolio website showcasing education, experience, technical skills, projects, 
 - `index.html` — the main page using the Tailwind Play CDN for styling
 - `assets/` — SVG logo and cute illustration
 
-## Run locally
+🛠 set-up
+1. Install the dependencies
+    npm install
+2. Start the development server
+    npm run dev
 
-Easiest: open `index.html` in a browser.
+🚀 build and run for production
+1. Generate a full static production build
+    npm run build
 
-Use the included Vite + Tailwind setup (recommended for development):
-
-PowerShell (Windows):
-
-```powershell
-cd c:\Users\AditiVanikar\web3\cute-website
-npm install
-npm run dev
-```
-
-Build for production:
-
-```powershell
-npm run build
-npm run preview
-```
 
 ## Notes
 
